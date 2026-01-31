@@ -1,42 +1,43 @@
-# Clarifin Terms of Service and Legal Notices
+# Privacy Policy
 
-Effective date: 2026-01-31
+**Clarifin** — Personal Finance Management  
+**Last updated:** January 31, 2026
 
-1. Agreement to Terms
-By accessing or using Clarifin (the "Service"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree, do not use the Service.
+## What Data We Collect
 
-2. Use of the Service
-The Service is provided for lawful purposes only. You agree to comply with all applicable laws and these Terms. We may modify, suspend, or discontinue the Service (or any part) at any time without notice.
+Clarifin connects to your bank accounts through Enable Banking to retrieve:
+- Account balances and details
+- Transaction history (amounts, dates, descriptions, merchant info)
 
-3. Accounts
-You are responsible for maintaining the confidentiality of any account credentials and for all activity that occurs under your account. You must provide accurate information and keep it up to date.
+## How We Use Your Data
 
-4. Intellectual Property
-All rights, title, and interest in and to the Service, including software, content, trademarks, and logos, are and will remain the exclusive property of Clarifin or its licensors. You may not copy, modify, distribute, or create derivative works without prior written consent.
+- Display your financial overview, budgets, and spending trends
+- Categorize transactions automatically
+- Calculate financial health metrics
 
-5. User Content
-You retain ownership of content you submit to the Service, but by submitting you grant Clarifin a worldwide, non-exclusive, royalty-free license to use, host, store, reproduce, modify, create derivative works of, communicate, publish, publicly perform, and distribute such content for the purpose of providing and improving the Service.
+## Data Storage
 
-6. Prohibited Conduct
-You must not: (a) reverse engineer, decompile, or disassemble the Service; (b) use the Service to infringe others' rights; (c) transmit harmful code or spam; or (d) otherwise misuse the Service.
+- All data is stored locally on your own device/server
+- No data is sent to external servers or cloud services
+- Bank credentials are never stored — authentication is handled entirely by Enable Banking
 
-7. Disclaimers
-THE SERVICE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED. TO THE FULLEST EXTENT PERMITTED BY LAW, CLARIFIN DISCLAIMS ALL WARRANTIES, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+## Third Parties
 
-8. Limitation of Liability
-IN NO EVENT WILL CLARIFIN BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR RELATED TO YOUR USE OF THE SERVICE. OUR AGGREGATE LIABILITY WILL NOT EXCEED THE AMOUNTS PAID BY YOU TO CLARIFIN IN THE PRIOR TWELVE MONTHS, OR ONE HUNDRED DOLLARS (USD) IF NO AMOUNTS WERE PAID.
+- **Enable Banking** acts as the intermediary to access your bank data under PSD2 regulation. Their privacy policy: [https://enablebanking.com/privacy](https://enablebanking.com/privacy)
+- No other third parties receive your data
 
-9. Indemnification
-You agree to indemnify and hold harmless Clarifin, its affiliates, officers, and employees from any claim, demand, liability, loss, or expense arising from your breach of these Terms or your misuse of the Service.
+## Data Retention & Deletion
 
-10. Termination
-We may suspend or terminate your access for violation of these Terms or for any reason. On termination, any licenses granted to you will end, and you must stop using the Service.
+- You can delete all your data at any time from the Settings page
+- Uninstalling the application removes all locally stored data
 
-11. Governing Law
-These Terms are governed by and construed in accordance with the laws of the jurisdiction where Clarifin is established, without regard to conflict-of-law principles.
+## Your Rights
 
-12. Changes to Terms
-We may change these Terms from time to time. When we do, we will revise the "Effective date" at the top. Continued use after changes constitutes acceptance.
+You have the right to:
+- Access all data stored by Clarifin
+- Delete your data at any time
+- Revoke bank access through your bank's online portal
 
-13. Contact
-For questions about these Terms, contact us at: privacy@clarifin.example
+## Contact
+
+For privacy questions: **[ing.ben.slama@gmail.com]**
